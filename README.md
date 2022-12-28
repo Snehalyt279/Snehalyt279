@@ -11,7 +11,7 @@
 - :zap: In my free time, I study Geopolitics, International Affairs & Strategy.
 - :lotus_position_woman: Yoga and Meditation enthusiast.
 - ### :hammer_and_wrench: Languages and Tools :
-- [![My Skills](https://skillicons.dev/icons?i=visualstudio,gherkin,java,js,c,html,css,mysql,selenium,r,py)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=visualstudio,gherkin,selenium,java,js,c,html,css,mysql,r,py)](https://skillicons.dev)
 
 <!---
 Snehalyt279/Snehalyt279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
